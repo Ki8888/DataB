@@ -195,6 +195,6 @@ values ('CD8','연중무휴(명절,공휴일제외)');
 
 --GOOD I data--
 insert into GOOD_I (GOOD_I_ID, AREA_ID, SECTOR_ID, OPENTIME, CDAY_ID, NAME, PHONE, MENU, SUPPORT_ID, R_SUPPORT_ID)
-values ('G001','AR6','SEC1','AM11:00-PM22:30','CD8','서경주','57542827785','런치메뉴중 택1','S2','R1');
+values ('G001','AR6','SEC1','AM11:00-PM10:30','CD8','서경주','57542827785','런치메뉴중 택1','S2','R1');
 insert into GOOD_I (GOOD_I_ID, AREA_ID, SECTOR_ID, OPENTIME, CDAY_ID, NAME, PHONE, MENU, SUPPORT_ID, R_SUPPORT_ID)
-values ('G002','AR9','SEC2','
+values ('G002','AR9','SEC2','AM10:30-PM10:00','CD7','진진하','51592886675','음료or쿠키 1개 또는 카야토스트1개','S2','R1')
